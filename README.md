@@ -69,4 +69,5 @@ After successful face authentication, the unified GUI combining the Face Entry S
 
 ---
 
-Developed by Apoorv Mishra
+Developed by Anushka Gupta - RA2311027010152
+             Eashan Jain - RA2311027010198
